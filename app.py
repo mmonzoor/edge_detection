@@ -63,7 +63,7 @@ def set_st_values(Images, filename):
         st.image(show_img(edge_link))
 
 st.title("Got an Edge?")
-st.markdown('''Author: [Tahin M]''')
+st.markdown('''Author: Tahin M''')
 
 
 st.header("Canny Edge Detection")
